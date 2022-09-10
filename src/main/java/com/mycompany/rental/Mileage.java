@@ -2,6 +2,8 @@ package com.mycompany.rental;
 
 import java.math.BigDecimal;
 
+//I dont know where there is broken code
+
 public class Mileage {
     
     private BigDecimal maxMileage;
